@@ -89,7 +89,3 @@ Contributing
 
 Feel free to fork this repository and contribute by submitting a pull request. Any contributions, whether it's improving functionality, documentation, or testing, are welcome!
 
-
-Contact
-
-For any questions or feedback, please reach out to me at [suryathirupks@gmail.com].
